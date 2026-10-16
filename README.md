@@ -1,46 +1,46 @@
-# Hi, I'm Jianquan Wang 👋
+# 王建权 👋
 
-**AI Engineering · AI for Science · Computer Vision · Robotics Data**
+**人工智能工程 · AI for Science · 计算机视觉 · 机器人数据**
 
-I am an undergraduate student from Shanghai Ocean University, where I studied **Economics and Management** and minored in **Artificial Intelligence**. My work sits at the intersection of AI engineering, scientific research tools, computer vision, and robotics data collection.
+我毕业于**上海海洋大学**，主修经济管理，辅修人工智能。我的实践经历主要集中在人工智能工程、科研工具、计算机视觉和机器人数据采集的交叉领域。
 
-I enjoy turning unclear problems into working prototypes, experiments, and usable tools.
+我喜欢把不明确的问题拆解成可以运行的原型、实验和工具。
 
-## What I work on
+## 我正在关注什么
 
-- **Computer Vision:** image data, object detection, YOLO-based experiments
-- **AI for Science:** research tools, model workflows, and AI product engineering
-- **Robotics & Embodied AI:** underwater robotic fish, robot data collection, reinforcement learning basics
-- **AI Products:** prototyping, platform testing, user feedback, and iteration
+- **计算机视觉：** 图像数据、目标检测、基于 YOLO 的模型实验
+- **AI for Science：** 科研工具、模型工作流和 AI 产品工程
+- **机器人与具身智能：** 水下机器鱼、机器人数据采集、强化学习基础
+- **AI 产品：** 原型设计、平台测试、用户反馈和持续迭代
 
-## Selected experience
+## 项目与实践经历
 
-### Shanghai Ocean University AI Lab · 2023–2024
+### 上海海洋大学人工智能实验室 · 2023–2024
 
-Participated in an underwater robotic fish project. Worked with fish image data, trained a small recognition model, and explored YOLO-based tuna detection. A related manuscript is currently an unpublished draft.
+参与水下机器鱼项目。处理鱼类图像数据，训练小型识别模型，并探索基于 YOLO 的金枪鱼目标识别。相关论文目前仍是未发表初稿。
 
-### DeepSight Technology · AI for Science
+### 深视科技 · AI for Science
 
-Worked on AI products and engineering for scientific users, including the **Deep Modeling community** and **AI Chatbox** research tools.
+参与面向科研用户的 AI 产品与工程工作，包括 **Deep Modeling 社区**和 **AI Chatbox** 科研工具。
 
-### Zhongguancun Academy / Zhongguancun Institute of Artificial Intelligence · Jusheng AI
+### 中关村学院 / 中关村人工智能研究院 · 聚声 AI 项目组
 
-Participated in a data-collection glove project. Helped build and improve the data-collection platform, test workflows, and learn the foundations of reinforcement learning and robot data pipelines.
+参与数据采集手套项目，协助搭建和完善数据采集平台，进行流程测试，并学习强化学习与机器人数据管线的基础知识。
 
-## Current interests
+## 当前兴趣
 
-- Reliable data pipelines for robotics and embodied AI
-- Computer vision in scientific and engineering settings
-- AI tools that improve research workflows
-- Practical connections between foundation models and real-world systems
+- 面向机器人和具身智能的可靠数据管线
+- 科研与工程场景中的计算机视觉
+- 能够提升科研工作效率的 AI 工具
+- 基础模型与真实世界系统之间的连接
 
-## Selected projects
+## 项目记录
 
-Projects will be added here as they are documented with code, experiments, and short technical notes.
+我会在这里持续补充代码、实验记录和技术笔记。
 
-## Contact
+## 联系方式
 
-- Email: [2247594376@qq.com](mailto:2247594376@qq.com)
-- GitHub: [@AUUDUU](https://github.com/AUUDUU)
+- 邮箱：[2247594376@qq.com](mailto:2247594376@qq.com)
+- GitHub：[[@AUUDUU](https://github.com/AUUDUU)](https://github.com/AUUDUU)
 
-> I am still exploring the boundary between research, engineering, and product work. This profile records that process in public.
+> 我正在持续探索研究、工程和产品之间的连接，并把这个过程记录下来。
